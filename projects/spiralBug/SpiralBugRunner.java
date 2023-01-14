@@ -9,7 +9,7 @@ public class SpiralBugRunner {
         ActorWorld world = new ActorWorld();
         SpiralBug alice = new SpiralBug(6);
         alice.setColor(Color.ORANGE);
-        world.add(new Location(7, 8), alice);
+        world.add(new Location(8, 8), alice);
         world.show();
     }
 }

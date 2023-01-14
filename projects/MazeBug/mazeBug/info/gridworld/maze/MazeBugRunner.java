@@ -1,4 +1,4 @@
-package info.gridworld.maze;
+package MazeBug.mazeBug.info.gridworld.maze;
 import info.gridworld.actor.ActorWorld;
 import info.gridworld.grid.Location;
 import info.gridworld.grid.UnboundedGrid;

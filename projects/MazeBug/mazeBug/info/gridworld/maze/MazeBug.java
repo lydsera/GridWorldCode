@@ -1,4 +1,4 @@
-package info.gridworld.maze;
+package MazeBug.mazeBug.info.gridworld.maze;
 
 import info.gridworld.actor.Actor;
 import info.gridworld.actor.Bug;

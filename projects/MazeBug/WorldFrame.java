@@ -17,7 +17,7 @@
  * @author Cay Horstmann
  */
 
-package info.gridworld.gui;
+package MazeBug;
 
 import info.gridworld.actor.Actor;
 import info.gridworld.actor.Bug;
@@ -27,6 +27,7 @@ import info.gridworld.grid.BoundedGrid;
 import info.gridworld.grid.Grid;
 import info.gridworld.grid.Location;
 import info.gridworld.grid.UnboundedGrid;
+import info.gridworld.gui.*;
 import info.gridworld.world.World;
 import info.gridworld.maze.*;
 
